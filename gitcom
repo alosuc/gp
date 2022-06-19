@@ -1,0 +1,8 @@
+git init
+git config --gloabal user.email "jlevitana@gmail.com"
+git config --global user.name "alosuc"
+git add .
+git commit -m "update 172022"
+git remote add origin 'https://github.com/alosuc/osex/tree/linex'
+git push -u origin master
+#git remote set-url origin git://new.url.here
