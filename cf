@@ -1,6 +1,9 @@
 #git init
 git config --global user.email "jlevitana@gmail.com"
 git config --global user.name "alosuc"
-git add .
-git commit -m "update 190522"
-git remote add origin 'https://github.com/alosuc'
+#git add .
+git commit -m "update 190622"
+#git remote add origin 'https://github.com/alosucgp'
+#git clone 'https://github.com/alosuc/gp'
+#git push
+#git remote add origin 'https://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@github.com/alosuc/g
